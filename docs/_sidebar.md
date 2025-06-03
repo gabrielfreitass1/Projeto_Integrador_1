@@ -1,23 +1,27 @@
 <!--/_sidebar.md -->
 
-- [Home](README.md)
-<!--/_sidebar.md 
-- **Base**
-  - **1. Desenho de Software (Base)**
-    - [1.1. Design Sprint](Base/DesignSprint/README.md)
-      - [1.1.1. Técnicas de elicitação utilizadas](Base/DesignSprint/1.1.1.TecnicasElicitacao.md)
-      - [1.1.2. Brainstorm](Base/DesignSprint/1.1.2.Brainstorm.md)
-      - [1.1.3. Elicitação de Requisitos](Base/DesignSprint/1.1.3.Elicitacao.md)
-      - [1.1.4. Personas](Base/DesignSprint/1.1.4.Personas.md)
-      - [1.1.5. Priorização](Base/DesignSprint/1.1.5.Priorizacao.md)
-      - [1.1.6. Questionário](Base/DesignSprint/1.1.6.Questionario.md)
-      - [1.1.7. Termo de Consentimento](Base/DesignSprint/1.1.7.Consentimento.md)
-      - [1.1.8. 5W2H](Base/DesignSprint/1.1.8.5W2H.md)
-      - [1.1.9. Glossário](Base/DesignSprint/1.1.9.Glossario.md)
-      - [1.1.10. Protótipação e Teste](Base/DesignSprint/1.1.10.Prototipo.md)
-    - [1.2. Artefato Generalista](Base/Artefatos-Generalistas/1.2.ArtefatosGeneralistas.md)
-      - [1.2.1 Plano de Risco](Base/Artefatos-Generalistas/PlanoDeRisco.md) 
-    - [1.3. Modelagem BPMN](Base/1.3.ModelagemBPMN.md)
-    - [1.4. Participações - Base](Base/1.4.ParticipacoesBase.md)
-    - [1.5. Iniciativas Extras - Base](Base/1.5.IniciativasExtras.md)
-    -->
+- [**Home**](README.md)
+
+- **Políticas de Contribuição do Projeto**
+  - [Branches](Policies\Branches.md)
+  - [Commits](Policies\Commits.md)
+  - [Pull Requests](Policies\PullRequests.md)
+
+- [Padrão de documentação](padrao.md)
+
+- **Artefatos Gerados**
+
+  - **1.0 Primeira Entrega**
+    - [1.1. Requisitos](1.0.Entrega1/1.1.Requisitos.md)
+    
+  - **2.0 Segunda Entrega**
+    - [2.1. BPMN](2.0.Entrega2/2.1.BPMN.md)
+    - [2.2. Backlog](2.0.Entrega2/2.2.Backlog.md)
+    - [2.3. Casos de Uso](2.0.Entrega2/2.3.CasosDeUso.md)
+    - [2.4. Protótipo do Software](2.0.Entrega2/2.4.PrototipoSoftware.md)
+    - [2.5. Diagrama de Arquitetura](2.0.Entrega2/2.5.DiagramaArquitetura.md)
+    - [2.6. Diagrama de Estados](2.0.Entrega2/2.6.DiagramaEstados.md)
+    - [2.7. Modelo Entidade-Relacionamento (ME-R)](2.0.Entrega2/2.7.ModeloEntidadeRelacionamento.md)
+    - [2.8. Diagrama Entidade-Relacionamento (DE-R)](2.0.Entrega2/2.8.DiagramaEntidadeRelacionamento.md)
+    - [2.9. Protótipo Funcional Navegável](2.0.Entrega2/2.9.PrototipoFuncionalNavegavel.md)
+    - [2.10. Roteiro de Testes Funcionais](2.0.Entrega2/2.10.RoteiroTestesFuncionais.md)
