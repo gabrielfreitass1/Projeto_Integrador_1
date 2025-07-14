@@ -54,6 +54,16 @@
                 </a>
                 <sub><b>211041286</b></sub>
                 <br/>
+            </td>
+            <td align="center">
+                <a href="https://cdn.pixabay.com/photo/2022/01/30/13/33/github-6980894_640.png">
+                    <img style="border-radius: 50%;" src="" width="100px;" alt="Imagem de Matheus Henrique"/>
+                    <br />
+                    <sub><b>Matheus Henrique</b></sub>
+                    <br />
+                </a>
+                <sub><b>211029666</b></sub>
+                <br/>
             </td>                        
         </tr>
     </table>
@@ -68,9 +78,17 @@ Este repositório tem como objetivo documentar todos os artefatos e entregaveis 
 
 ## Artefatos Gerados
 
-- [Nome Artefato 1](link)
-- [Nome Artefato 2](link)
-- [Nome Artefato 3](link)
+- [Requisitos](1.0.Entrega1/1.1.Requisitos.md)
+- [BPMN](2.0.Entrega2/2.1.BPMN.md)
+- [Backlog](2.0.Entrega2/2.2.Backlog.md)
+- [Casos de Uso](2.0.Entrega2/2.3.CasosDeUso.md)
+- [Prototipo do Software](2.0.Entrega2/2.4.PrototipoSoftware.md)
+- [Diagrama de Arquitetura](2.0.Entrega2/2.5.DiagramaArquitetura.md)
+- [Diagrama de Estados](2.0.Entrega2/2.6.DiagramaEstados.md)
+- [Modelo Entidade Relacionamento](2.0.Entrega2/2.7.ModeloEntidadeRelacionamento.md)
+- [Diagrama Entidade Relacionamento](2.0.Entrega2/2.8.DiagramaEntidadeRelacionamento.md)
+- [Prototipo Funcional](2.0.Entrega2/2.9.PrototipoFuncionalNavegavel.md)
+- [Roteiro de Testes Funcionais](2.0.Entrega2/2.10.RoteiroTestesFuncionais.md)
 
 
 ## Executando o projeto
