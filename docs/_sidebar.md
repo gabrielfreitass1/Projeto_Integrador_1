@@ -23,5 +23,7 @@
     - [2.6. Diagrama de Estados](2.0.Entrega2/2.6.DiagramaEstados.md)
     - [2.7. Modelo Entidade-Relacionamento (ME-R)](2.0.Entrega2/2.7.ModeloEntidadeRelacionamento.md)
     - [2.8. Diagrama Entidade-Relacionamento (DE-R)](2.0.Entrega2/2.8.DiagramaEntidadeRelacionamento.md)
-    - [2.9. Protótipo Funcional Navegável](2.0.Entrega2/2.9.PrototipoFuncionalNavegavel.md)
-    - [2.10. Roteiro de Testes Funcionais](2.0.Entrega2/2.10.RoteiroTestesFuncionais.md)
+    - [2.9. Roteiro de Testes Funcionais](2.0.Entrega2/2.9.RoteiroTestesFuncionais.md)
+
+  - **3.0 Terceira Entrega**
+    - [3.1. Experimentos de Software](3.0.Entrega3/3.1.ExperimentosDeSoftware.md)
