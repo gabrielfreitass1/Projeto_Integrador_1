@@ -78,17 +78,17 @@ Este repositório tem como objetivo documentar todos os artefatos e entregaveis 
 
 ## Artefatos Gerados
 
-- [Requisitos](1.0.Entrega1/1.1.Requisitos.md)
-- [BPMN](2.0.Entrega2/2.1.BPMN.md)
-- [Backlog](2.0.Entrega2/2.2.Backlog.md)
-- [Casos de Uso](2.0.Entrega2/2.3.CasosDeUso.md)
-- [Prototipo do Software](2.0.Entrega2/2.4.PrototipoSoftware.md)
-- [Diagrama de Arquitetura](2.0.Entrega2/2.5.DiagramaArquitetura.md)
-- [Diagrama de Estados](2.0.Entrega2/2.6.DiagramaEstados.md)
-- [Modelo Entidade Relacionamento](2.0.Entrega2/2.7.ModeloEntidadeRelacionamento.md)
-- [Diagrama Entidade Relacionamento](2.0.Entrega2/2.8.DiagramaEntidadeRelacionamento.md)
-- [Prototipo Funcional](2.0.Entrega2/2.9.PrototipoFuncionalNavegavel.md)
-- [Roteiro de Testes Funcionais](2.0.Entrega2/2.9.RoteiroTestesFuncionais.md)
+- [Requisitos](https://gabrielfreitass1.github.io/Projeto_Integrador_1/#/1.0.Entrega1/1.1.Requisitos)
+- [BPMN](https://gabrielfreitass1.github.io/Projeto_Integrador_1/#/2.0.Entrega2/2.1.BPMN)
+- [Backlog](https://gabrielfreitass1.github.io/Projeto_Integrador_1/#/2.0.Entrega2/2.2.Backlog)
+- [Casos de Uso](https://gabrielfreitass1.github.io/Projeto_Integrador_1/#/2.0.Entrega2/2.3.CasosDeUso)
+- [Prototipo do Software](https://gabrielfreitass1.github.io/Projeto_Integrador_1/#/2.0.Entrega2/2.4.PrototipoSoftware)
+- [Diagrama de Arquitetura](https://gabrielfreitass1.github.io/Projeto_Integrador_1/#/2.0.Entrega2/2.5.DiagramaArquitetura)
+- [Diagrama de Estados](https://gabrielfreitass1.github.io/Projeto_Integrador_1/#/2.0.Entrega2/2.6.DiagramaEstados)
+- [Modelo Entidade Relacionamento](https://gabrielfreitass1.github.io/Projeto_Integrador_1/#/2.0.Entrega2/2.7.ModeloEntidadeRelacionamento)
+- [Diagrama Entidade Relacionamento](https://gabrielfreitass1.github.io/Projeto_Integrador_1/#/2.0.Entrega2/2.8.DiagramaEntidadeRelacionamento)
+- [Roteiro de Testes Funcionais](https://gabrielfreitass1.github.io/Projeto_Integrador_1/#/2.0.Entrega2/2.9.RoteiroTestesFuncionais)
+- [Experimentos de Software](https://gabrielfreitass1.github.io/Projeto_Integrador_1/#/3.0.Entrega3/3.1.ExperimentosDeSoftware)
 
 
 ## Executando o projeto
