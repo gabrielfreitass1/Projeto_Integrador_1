@@ -88,7 +88,7 @@ Este repositório tem como objetivo documentar todos os artefatos e entregaveis 
 - [Modelo Entidade Relacionamento](2.0.Entrega2/2.7.ModeloEntidadeRelacionamento.md)
 - [Diagrama Entidade Relacionamento](2.0.Entrega2/2.8.DiagramaEntidadeRelacionamento.md)
 - [Prototipo Funcional](2.0.Entrega2/2.9.PrototipoFuncionalNavegavel.md)
-- [Roteiro de Testes Funcionais](2.0.Entrega2/2.10.RoteiroTestesFuncionais.md)
+- [Roteiro de Testes Funcionais](2.0.Entrega2/2.9.RoteiroTestesFuncionais.md)
 
 
 ## Executando o projeto
